@@ -20,19 +20,16 @@ Fieldkit is a physical marketing agency built by printers, fabricators, designer
 
 ---
 
-## What lives in this GitHub org
+## We like to make stuff
 
-This org contains the software and tooling behind Fieldkit’s operational platform, including:
+This org contains the software and tooling behind our operational platform including:
 
 - **Public API** + docs tooling (OpenAPI, webhooks)
-- **Portal apps** (customer + internal)
-- **Backend services** (quotes → orders → production → fulfillment)
-- **Edge/on-site runtimes** (shop floor + event deployments)
-- **Integrations** (shipping, invoicing, identity, etc.)
 - **Shared libs** (types/schemas/SDKs)
-- **Infra** (CI/CD, environments, observability, runbooks)
+- **Infra** Shared assets and tools for the print industry
+- **Open Graphtec Server** Our open source Graphtec datalink cutting server implementation
 
-If you’re new: start with the pinned repos and anything named `docs`, `portal`, `backend`, `api`, or `infra`.
+We aim to build things that are usable by the wider print industry as well as us
 
 ---
 
