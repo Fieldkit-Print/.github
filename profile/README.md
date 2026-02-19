@@ -5,10 +5,9 @@ Put it at: `.github/profile/README.md`
 
 # Fieldkit
 
-**Physical marketing production — plus the software to keep it moving.**
+**Physical marketing production — we make cool shit**
 
-Fieldkit is a physical marketing agency built by printers, fabricators, designers, and project managers. We help brands bring real-world campaigns to life — quickly, reliably, and beautifully executed.  
-From small print runs to full on-site activation buildouts, we take the stress off your plate and deliver work on tight timelines, within budget, and at brand level.
+Fieldkit is a physical marketing agency built by printers, fabricators, designers, and project managers. We help brands bring real-world campaigns to life! We work on everything from small print campaigns to full scale brand build outs.
 
 ---
 
